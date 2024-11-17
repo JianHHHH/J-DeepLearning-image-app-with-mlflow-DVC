@@ -10,3 +10,7 @@
 7. Update the pipeline: training and prediction pipeline
 8. Update the main.py [ to executed pipelines]
 9. Update the dvc.yaml [lasly update DVC because inorder to use DVC, we first need to complete all the pipelines]
+
+
+
+[To be continued]
